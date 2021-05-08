@@ -1,8 +1,8 @@
+import React, { Component } from 'react';
 import FeedbackOptions from './component/FeedbackOptions/FeedbackOptions';
 import Statistics from './component/Statistics/Statistics';
 import Section from './component/Section/Section';
 import Notification from './component/Notification/Notification';
-const { Component } = require('react');
 
 class App extends Component {
   state = {

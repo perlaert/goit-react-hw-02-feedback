@@ -1,0 +1,22 @@
+.feedbackList {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn {
+  font-size: 20px;
+  width: 98px;
+  height: 38px;
+  margin-right: 23px;
+  background-color: #f0e9df;
+  border-radius: 10px;
+  border: 0.5px solid #7d766d;
+  box-shadow: -5px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #bdb3a6;
+  color: #fff;
+}
